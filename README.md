@@ -1,2 +1,2 @@
 # computador
-Computador gamer feito em CSS3
+Computador gamer feito em HTML5 e CSS3
